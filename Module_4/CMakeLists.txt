@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-project(ece650-a4)
+project
 
 if (EXISTS "${CMAKE_SOURCE_DIR}/minisat")
   add_subdirectory(minisat)
@@ -8,7 +8,6 @@ else()
 endif()
 
 
-## ECE650 Specific configuration start here
 ## Project specific configurations go here
 
 # enable c++11 support
