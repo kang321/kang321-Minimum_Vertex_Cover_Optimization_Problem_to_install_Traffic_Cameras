@@ -1,4 +1,4 @@
-#intersection point reference taken from : https://git.uwaterloo.ca/ece650-f2021/python-examples/-/blob/master/py/ag_intersect.py
+
 #!/usr/bin/env python3
 import sys
 import re
